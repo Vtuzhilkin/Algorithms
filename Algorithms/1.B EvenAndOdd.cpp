@@ -15,6 +15,7 @@ int EvenAndOdd() {
 	}
 	else {
 		std::cout << "FAIL";
+
 	}
 	return 0;
 }
